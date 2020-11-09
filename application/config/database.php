@@ -76,9 +76,9 @@ error_reporting(0);
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'userdemo',
-	'password' => '123456',
-	'database' => 'demo_gaji',
+	'username' => 'root',
+	'password' => '',
+	'database' => 'gaji',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
